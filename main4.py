@@ -1,5 +1,5 @@
 import cv2
-import os
+from os import listdir
 import joao_lucas.modules as fc
 
 diretorioBaso = '../Main_Dataset/Baso'
@@ -15,7 +15,7 @@ diretorioFinal = './resultados_3/mixt'
 fileType = '.bmp'
 files = []
 
-diretorio = os.listdir(diretorioMixt)
+diretorio = listdir(diretorioMixt)
 for file in diretorio:
     if file.endswith(fileType):
         files.append(file)
