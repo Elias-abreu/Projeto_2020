@@ -2,6 +2,255 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2438463-2784-417d-a4b7-1f8a6093b7cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/baso/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/eosi/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/lymp/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/mono/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados_cinza/neut/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classificacao/Exemplo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classificacao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classificacao/classificador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classificacao/extracao_recursos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,10 +258,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kOFh2g0O7Fl4OUxLvoBFi5t7CS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,12 +277,85 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/base_dados_cinza" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Documentos\Projetos em Andamento\Projeto_2020\base_dados_cinza" />
       <recent name="E:\Documentos\Projetos em Andamento\Projeto_2020" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.classificador">
+    <configuration name="Exemplo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projeto_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classificacao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classificacao/Exemplo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classificador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projeto_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classificacao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classificacao/classificador.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extracao_recursos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projeto_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classificacao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classificacao/extracao_recursos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.classificador" />
+        <item itemvalue="Python.extracao_recursos" />
+        <item itemvalue="Python.Exemplo1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,5 +369,23 @@
       <updated>1605563846146</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1622653005557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622653005557" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1622653005557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622653005557" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1622653005557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622653005557" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1622653005557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622653005557" />
   </component>
 </project>
