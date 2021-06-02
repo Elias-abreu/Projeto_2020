@@ -22,7 +22,6 @@ if len(contourns) != 0:
         if w > 200:
             ROIs.append(img[y: y+h, x: x+w])
 
-
 grayROIs = []
 for corte in ROIs:
     grayROIs.append(cv2.cvtColor(corte, cv2.COLOR_BGR2GRAY))

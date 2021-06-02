@@ -31,5 +31,5 @@ if len(contourns) != 0:
 img = resizeImg(img, 600)
 
 
-cv2.imshow('Result', img)
+cv2.imshow('Resultado', img)
 cv2.waitKey(0)

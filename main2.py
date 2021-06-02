@@ -19,20 +19,14 @@ largura = int(img.shape[0] / 4)
 altura = int(img.shape[1] / 4)
 
 #Passo 2: Blur/Suavização da imagem
-
 suave = cv2.GaussianBlur(img, (7, 7), 0)
 
 #outra forma de binarizar a imagem
 ret2, binn2 = cv2.threshold (suave.copy(), 0,255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
-
-
-
 #Removendo ruído
 kernel = np.ones((3, 3), np.uint8)
 binn2 = cv2.morphologyEx(binn2, cv2.MORPH_OPEN, kernel, iterations = 2)
-
-
 
 kernel = np.ones((5,5),np.uint8)
 erosao = cv2.erode(binn2,kernel,iterations = 1)
@@ -65,8 +59,6 @@ for i in objetos:
 
 
 cv2.drawContours(imgC2, celulas_vermelhas, -1, (255, 0, 0), 7)
-
-
 
 #Redimencionar as imagens
 imgColorida2 = cv2.resize(imgColorida, (altura, largura))

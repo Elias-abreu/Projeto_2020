@@ -1,4 +1,5 @@
 def detectBorder(img, maxWidth = 35):
+    #IDENTIFICAR OS GLÓBULOS BRANCOS
     import cv2
     import numpy as np
 
@@ -19,6 +20,7 @@ def detectBorder(img, maxWidth = 35):
     return grayROIs
 
 def showImage(*figs):
+    #MOSTRAR VÁRIAS IMAGENS
     from cv2 import imshow, waitKey
     txts = []
     imgs = []
@@ -34,6 +36,7 @@ def showImage(*figs):
     waitKey(0)
 
 def resizeImg(img, size):
+    #MODIFICAR TAMANHO DA IMAGEM
     from cv2 import resize, INTER_AREA
     width = img.shape[1]
     height = img.shape[0]
@@ -47,6 +50,7 @@ def resizeImg(img, size):
 
 
 def status(img, showCanal = False, y = -1, x = -1):
+    #STATUS DA IMAGEM
     print('Altura:', img.shape[0])
     print('Largura:', img.shape[1])
     if showCanal:

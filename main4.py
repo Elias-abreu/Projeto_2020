@@ -10,7 +10,6 @@ diretorioMono = '../Main_Dataset/mono'
 diretorioNeut = '../Main_Dataset/neut'
 
 
-
 diretorioFinal = './resultados_3/mixt'
 fileType = '.bmp'
 files = []
